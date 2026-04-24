@@ -1,2 +1,2 @@
 # sva
-SVA - Suno Visual Analyzer Chrome Extension
+Real-time audio visualizer side panel for SUNO streaming music.
