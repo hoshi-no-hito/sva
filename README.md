@@ -1,2 +1,2 @@
 # sva
-Real-time audio visualizer side panel for SUNO streaming music.
+Unofficial Real-time Audio Visualizer side panel for SUNO streaming music.
