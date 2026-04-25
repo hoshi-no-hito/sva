@@ -1,17 +1,17 @@
 ## Privacy Policy for SVA
 
-### SVA does not collect, transmit, or store any personal information or user data.
+### SVA processes audio output from the active Suno tab locally in the browser to display real-time loudness and spectrum visualization.
 
-- All audio processing occurs entirely within your browser. No data is sent to external servers.
-- The only data stored locally is your UI language preference (Japanese/English), saved in localStorage on your device.
-- No data is shared with any third parties.
-
-
+- The extension does not record, upload, transmit, or share audio data.
+- Snapshots are stored only in memory during the current session and are deleted when the panel is closed or cleared.
+- Only the UI language setting (Japanese/English) is stored locally in localStorage.
+- No personal information or user data is collected, transmitted, or stored.
 
 ## SVA プライバシーポリシー
 
-### SVAは、ユーザーの個人情報およびいかなるデータも収集・送信・保存しません。
+### SVAは、ブラウザ内で再生中のSunoタブの音声出力をローカルで処理し、リアルタイムのラウドネス・スペクトラムを表示します。
 
-- 音声データはブラウザ内のみで処理され、外部サーバーへの送信は行いません。
-- 保存されるデータは UI の言語設定（日本語／英語）のみで、端末内の localStorage に保存されます。
-- 第三者へのデータ提供は一切行いません。
+- 音声データの録音・アップロード・送信・共有は一切行いません。
+- スナップショットはセッション中のメモリ内にのみ保存され、パネルを閉じるかクリアすると削除されます。
+- ローカルに保存されるのはUI言語設定（日本語／英語）のみです。
+- 個人情報およびユーザーデータの収集・送信・保存は行いません。
