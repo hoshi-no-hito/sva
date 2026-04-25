@@ -15,7 +15,7 @@ This extension is an unofficial tool and is not affiliated with, endorsed by, or
 
 
 
-###SVA プライバシーポリシー
+### SVA プライバシーポリシー
 
 SVAは、Sunoのウェブサイト上で使用された場合、アクティブなブラウザタブの音声出力をブラウザ内でローカル処理し、リアルタイムのラウドネスおよびスペクトラムの可視化を表示します。
 
