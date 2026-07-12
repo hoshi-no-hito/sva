@@ -10,9 +10,8 @@ SVA is an unofficial browser extension that provides real-time loudness and spec
 • Frequency spectrum visualization  
 • Stereo phase visualization  
 • Session-based snapshot comparison  
-• Japanese / English UI support
+• Japanese / English UI support  
 • Panel copy — capture the panel as a PNG image to clipboard
-
 
 ## Privacy
 
