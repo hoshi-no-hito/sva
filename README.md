@@ -20,7 +20,7 @@ SVA is an unofficial browser extension that provides real-time loudness and spec
 • No data is uploaded or transmitted  
 • All processing occurs locally  
 • Snapshot data exists only in memory  
-• Only UI language preference is stored locally
+• Only UI language preference is stored locally  
 • The copy button captures the panel locally as a PNG and writes it to your clipboard. No data is transmitted externally.
 
 
